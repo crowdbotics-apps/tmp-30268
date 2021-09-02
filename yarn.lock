@@ -957,10 +957,13 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     react-native-app-intro-slider "^4.0.4"
+
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
   version "5.0.1"
